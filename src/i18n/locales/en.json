@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "product": "Product",
+    "launchpad": "Launchpad",
+    "tech": "Tech",
+    "partner": "Partner",
+    "support": "Support",
+    "company": "Company",
+    "request_access": "Request Access"
+  },
+  "hero": {
+    "title": "Transform data into",
+    "title_highlight": "results",
+    "subtitle": "Make the best decisions with the best data. Vektrus AI Engine powers nearly every major optimization, leveraging your enterprise data to unlock the value of AI.",
+    "cta_start": "Get Started",
+    "cta_learn": "Learn More",
+    "trusted_by": "TRUSTED BY INDUSTRY LEADERS"
+  },
+  "features": {
+    "title": "Frontier AI Research",
+    "subtitle": "We're committed to pushing the boundaries of AI technology while maintaining the highest safety standards and ethical considerations.",
+    "cards": {
+      "research": {
+        "title": "Frontier AI Research",
+        "description": "Leading the way in AI innovation with cutting-edge research and development in machine learning and neural networks."
+      },
+      "models": {
+        "title": "Advanced ML Models",
+        "description": "Access state-of-the-art machine learning models optimized for enterprise-scale deployment and performance."
+      },
+      "data": {
+        "title": "Data Labeling at Scale",
+        "description": "Automated data labeling solutions powered by AI to process and annotate large datasets efficiently."
+      }
+    }
+  },
+  "data_engine": {
+    "title": "Scale Data Engine",
+    "subtitle": "For AI teams, Scale Data Engine improves your models by improving your data.",
+    "rlhf": {
+      "title": "RLHF",
+      "subtitle": "Powering the next generation of Generative AI",
+      "description": "Scale Generative AI Data Engine powers the most advanced LLMs and generative models in the world through world-class RLHF, data generation, model evaluation, safety, and alignment.",
+      "cta": "Label My Data"
+    }
+  },
+  "roi": {
+    "title": "ROI Calculator",
+    "subtitle": "See how much time and money you can save with Vektrus",
+    "inputs": {
+      "monthly_budget": "Monthly Budget (€)",
+      "weekly_hours": "Time Spent (hours/week)",
+      "monthly_reach": "Current Monthly Reach"
+    },
+    "results": {
+      "title": "Projected Improvements",
+      "time_savings": "Weekly Time Savings",
+      "cost_savings": "Monthly Cost Savings",
+      "cta": "Get Started"
+    }
+  },
+  "optimization": {
+    "title": "AI-Powered Post Optimization",
+    "subtitle": "See how our AI transforms your social media content in real-time",
+    "controls": {
+      "title": "Optimization Controls",
+      "text": {
+        "title": "Text Optimization",
+        "description": "Enhance engagement with AI-powered content suggestions"
+      },
+      "audience": {
+        "title": "Audience Analysis",
+        "description": "Target the right audience with smart hashtag recommendations"
+      },
+      "image": {
+        "title": "Image Enhancement",
+        "description": "Get AI-curated visuals that drive engagement"
+      },
+      "apply": "Apply Optimization",
+      "applied": "Optimization Applied"
+    }
+  },
+  "case_study": {
+    "title": "Success Story",
+    "subtitle": "See how Vektrus transformed social media performance for our clients",
+    "milestones": {
+      "problem": {
+        "title": "Problem Identification",
+        "description": "A medium-sized business faced declining social media engagement, with posts reaching only a fraction of their follower base."
+      },
+      "implementation": {
+        "title": "Implementation",
+        "description": "Vektrus analyzed their content strategy and implemented AI-driven optimizations for post timing, content, and audience targeting."
+      },
+      "results": {
+        "title": "Results & Optimization",
+        "description": "Within 3 months, engagement rates nearly tripled, reaching 4.2% with consistent growth in follower count and post reach."
+      }
+    },
+    "cta": "Transform Your Strategy"
+  },
+  "success_stories": {
+    "title": "Success Stories",
+    "testimonials": {
+      "1": {
+        "quote": "Vektrus transformed our social media strategy, increasing engagement by 200% in 3 months.",
+        "author": "John Doe",
+        "position": "Marketing Manager",
+        "company": "TechCorp"
+      },
+      "2": {
+        "quote": "The AI-driven insights have been invaluable for our content strategy. We've seen remarkable growth.",
+        "author": "Sarah Smith",
+        "position": "Social Media Director",
+        "company": "InnovateLabs"
+      },
+      "3": {
+        "quote": "Implementation was seamless, and the results were immediate. Our ROI has never been better.",
+        "author": "Michael Chen",
+        "position": "Digital Marketing Lead",
+        "company": "FutureScale"
+      }
+    }
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "rights": "© 2024 Vektrus. All rights reserved."
+  }
+}

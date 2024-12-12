@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "product": "Produkt",
+    "launchpad": "Launchpad",
+    "tech": "Technologie",
+    "partner": "Partner",
+    "support": "Support",
+    "company": "Unternehmen",
+    "request_access": "Zugang anfordern"
+  },
+  "hero": {
+    "title": "Verwandeln Sie Daten in",
+    "title_highlight": "Ergebnisse",
+    "subtitle": "Treffen Sie die besten Entscheidungen mit den besten Daten. Die Vektrus AI Engine unterstützt nahezu jede wichtige Optimierung und nutzt Ihre Unternehmensdaten, um den Wert von KI zu erschließen.",
+    "cta_start": "Loslegen",
+    "cta_learn": "Mehr erfahren",
+    "trusted_by": "VERTRAUT VON BRANCHENFÜHRERN"
+  },
+  "features": {
+    "title": "KI-Forschung der Zukunft",
+    "subtitle": "Wir setzen uns dafür ein, die Grenzen der KI-Technologie zu erweitern und dabei höchste Sicherheitsstandards und ethische Überlegungen zu berücksichtigen.",
+    "cards": {
+      "research": {
+        "title": "KI-Forschung der Zukunft",
+        "description": "Führend in KI-Innovation mit modernster Forschung und Entwicklung im Bereich maschinelles Lernen und neuronale Netze."
+      },
+      "models": {
+        "title": "Fortgeschrittene ML-Modelle",
+        "description": "Zugriff auf modernste Machine-Learning-Modelle, optimiert für den Einsatz und die Leistung im Unternehmensmaßstab."
+      },
+      "data": {
+        "title": "Datenkennzeichnung im großen Maßstab",
+        "description": "Automatisierte Datenkennzeichnungslösungen, die von KI unterstützt werden, um große Datensätze effizient zu verarbeiten und zu annotieren."
+      }
+    }
+  },
+  "data_engine": {
+    "title": "Scale Data Engine",
+    "subtitle": "Für KI-Teams verbessert die Scale Data Engine Ihre Modelle durch Verbesserung Ihrer Daten.",
+    "rlhf": {
+      "title": "RLHF",
+      "subtitle": "Antrieb der nächsten Generation von Generativer KI",
+      "description": "Die Scale Generative AI Data Engine treibt die fortschrittlichsten LLMs und generativen Modelle der Welt durch erstklassiges RLHF, Datengenerierung, Modellevaluierung, Sicherheit und Ausrichtung an.",
+      "cta": "Meine Daten kennzeichnen"
+    }
+  },
+  "roi": {
+    "title": "ROI-Rechner",
+    "subtitle": "Sehen Sie, wie viel Zeit und Geld Sie mit Vektrus sparen können",
+    "inputs": {
+      "monthly_budget": "Monatliches Budget (€)",
+      "weekly_hours": "Zeitaufwand (Stunden/Woche)",
+      "monthly_reach": "Aktuelle monatliche Reichweite"
+    },
+    "results": {
+      "title": "Prognostizierte Verbesserungen",
+      "time_savings": "Wöchentliche Zeitersparnis",
+      "cost_savings": "Monatliche Kostenersparnis",
+      "cta": "Loslegen"
+    }
+  },
+  "optimization": {
+    "title": "KI-gestützte Beitragsoptimierung",
+    "subtitle": "Sehen Sie, wie unsere KI Ihre Social-Media-Inhalte in Echtzeit transformiert",
+    "controls": {
+      "title": "Optimierungssteuerung",
+      "text": {
+        "title": "Textoptimierung",
+        "description": "Verbessern Sie das Engagement mit KI-gestützten Inhaltsvorschlägen"
+      },
+      "audience": {
+        "title": "Zielgruppenanalyse",
+        "description": "Erreichen Sie die richtige Zielgruppe mit intelligenten Hashtag-Empfehlungen"
+      },
+      "image": {
+        "title": "Bildverbesserung",
+        "description": "Erhalten Sie KI-kuratierte Visuals, die das Engagement steigern"
+      },
+      "apply": "Optimierung anwenden",
+      "applied": "Optimierung angewendet"
+    }
+  },
+  "case_study": {
+    "title": "Erfolgsgeschichte",
+    "subtitle": "Sehen Sie, wie Vektrus die Social-Media-Performance unserer Kunden transformiert hat",
+    "milestones": {
+      "problem": {
+        "title": "Problemidentifikation",
+        "description": "Ein mittelständisches Unternehmen verzeichnete rückläufiges Social-Media-Engagement, wobei die Beiträge nur einen Bruchteil ihrer Follower erreichten."
+      },
+      "implementation": {
+        "title": "Implementierung",
+        "description": "Vektrus analysierte ihre Content-Strategie und implementierte KI-gesteuerte Optimierungen für Posting-Zeitpunkte, Inhalte und Zielgruppenansprache."
+      },
+      "results": {
+        "title": "Ergebnisse & Optimierung",
+        "description": "Innerhalb von 3 Monaten verdreifachten sich die Engagement-Raten fast auf 4,2% mit stetigem Wachstum bei Followerzahl und Reichweite."
+      }
+    },
+    "cta": "Strategie transformieren"
+  },
+  "success_stories": {
+    "title": "Erfolgsgeschichten",
+    "testimonials": {
+      "1": {
+        "quote": "Vektrus hat unsere Social-Media-Strategie transformiert und das Engagement in 3 Monaten um 200% gesteigert.",
+        "author": "John Doe",
+        "position": "Marketing Manager",
+        "company": "TechCorp"
+      },
+      "2": {
+        "quote": "Die KI-gesteuerten Erkenntnisse waren für unsere Content-Strategie von unschätzbarem Wert. Wir haben ein bemerkenswertes Wachstum verzeichnet.",
+        "author": "Sarah Smith",
+        "position": "Social Media Direktorin",
+        "company": "InnovateLabs"
+      },
+      "3": {
+        "quote": "Die Implementierung verlief nahtlos und die Ergebnisse waren sofort sichtbar. Unser ROI war noch nie besser.",
+        "author": "Michael Chen",
+        "position": "Digital Marketing Lead",
+        "company": "FutureScale"
+      }
+    }
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "connect": "Verbinden",
+    "rights": "© 2024 Vektrus. Alle Rechte vorbehalten."
+  }
+}
